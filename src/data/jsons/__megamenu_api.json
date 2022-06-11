@@ -1,0 +1,73 @@
+[
+  {
+    "id": "1",
+    "title": "Энгийн багц аялал",
+    "image": "https://images.pexels.com/photos/1591373/pexels-photo-1591373.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "items": [
+      {
+        "id": "1",
+        "href": "#",
+        "name": "Турк Улсын 3 Хотын Аялал"
+      },
+      {
+        "id": "1",
+        "href": "#",
+        "name": "Вьетнам Фукуок аялал"
+      },
+      {
+        "id": "1",
+        "href": "#",
+        "name": "Турк-Кипр Аялал"
+      },
+      {
+        "id": "1",
+        "href": "#",
+        "name": "Энэтхэг улсын - Буддын аялал"
+      },
+      {
+        "id": "1",
+        "href": "#",
+        "name": "Турк Улсын 5 Хотын Аялал"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Дотоодын Аялал",
+    "image": "https://images.pexels.com/photos/2662116/pexels-photo-2662116.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "items": [
+      {
+        "id": "1",
+        "href": "#",
+        "name": "Алтай Таван Богдын Аялал"
+      },
+      {
+        "id": "1",
+        "href": "#",
+        "name": "Алтай Таван Богд"
+      },
+      {
+        "id": "1",
+        "href": "#",
+        "name": "Хустай Аялал"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Хуучин аяллууд",
+    "image": "https://images.pexels.com/photos/5059013/pexels-photo-5059013.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "items": [
+      {
+        "id": "1",
+        "href": "#",
+        "name": "СЭЛЭНГЭ АЙМГИЙН САЙХАНЫ ХӨТӨЛ"
+      },
+      {
+        "id": "1",
+        "href": "#",
+        "name": "БАНГКОК-ПАТТАЯА XОТУУДЫН АЯЛАЛ"
+      }
+    ]
+  }
+]
